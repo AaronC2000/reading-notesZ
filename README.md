@@ -1,6 +1,8 @@
+# Welcome to StackEdit!
+
 # Aaron 
 
-Hi! I'm **Aaron**, I am learning how to code using Markdown. You can find a super easy way to do it [here] (https://stackedit.io/)
+Hi! I'm **Aaron**, I am learning how to code using Markdown. You can find a super easy way to do it [here] (https://stackedit.io/) My github profile can be found here https://github.com/AaronC2000
 
  A growth mindset is when you understand that their abilities can be developed. Effort defines knowledge.
 
@@ -21,7 +23,3 @@ Here is a table:
 | 1 | 2 |
 |--|--|
 | 3 |4  | 
-
-> Blockquote
-
-how cool is that?
