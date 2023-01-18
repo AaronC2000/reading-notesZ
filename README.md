@@ -6,7 +6,7 @@ Hi! I'm **Aaron**, I am learning how to code using Markdown. You can find a supe
 
  A growth mindset is when you understand that abilities can be developed. Effort defines knowledge.
 
-Three ways I remind myself to keep a growth mindset is by:
+### Three ways I remind myself to keep a growth mindset is by:
 
  - Never being envious
  - Always taking critisism with grace
